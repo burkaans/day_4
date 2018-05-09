@@ -97,6 +97,22 @@ namespace day_4
                     }
                 }
             }
+
+            switch (mainigais4)
+            {
+                case 3:
+                    Console.WriteLine("trijsturis");
+                    break;
+                case 4:
+                    Console.WriteLine("cetrsturis");
+                    break;
+                case 5:
+                    Console.WriteLine("piecsturis");
+                    break;
+                default:
+                    Console.WriteLine("kluda!");
+                    break;
+            }
             Console.ReadLine();
                 
                 
