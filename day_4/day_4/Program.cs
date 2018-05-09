@@ -10,7 +10,7 @@ namespace day_4
     {
         static void Main(string[] args)
         {
-
+            Console.ReadLine();
         }
     }
 }
